@@ -1,1 +1,1 @@
-
+The text files contain data retrieved using Python's web scraping capabilities, capturing content from individual web pages. This information serves as input for natural language processing tasks aimed at extracting valuable insights tailored to the client's needs.
